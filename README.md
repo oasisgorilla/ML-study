@@ -2,7 +2,7 @@
 머신러닝 엔지니어가 되기 위한 학습
 
 ### 주요 학습 내용
-- 머신러닝의 수학적 기초 - ![2%](https://geps.dev/progress/2)
+- 머신러닝의 수학적 기초 - ![7%](https://geps.dev/progress/7)
 - 강화학습과 인공신경망 완전 정복 - ![0%](https://geps.dev/progress/0)
 - 8개의 머신러닝 예제 프로젝트 - ![0%](https://geps.dev/progress/0)
 - 랭체인 프로젝트 - ![0%](https://geps.dev/progress/0)

@@ -60,8 +60,21 @@ PyTorch와 TensorFlow를 사용하여 '텐서' 라는 개념을 알아봄
 #### 6. 스칼라
 
 PyTorch와 TensorFlow를 사용하여 '스칼라' 라는 개념을 알아봄
+<br>
+[학습일지링크](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80%ED%85%90%EC%84%9C%EC%97%90-%EB%8C%80%ED%95%B4-%EB%8D%94-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%EC%8A%A4%EC%B9%BC%EB%9D%BC)
 
 #### 7. 벡터와 벡터의 전치
 
 PyTorch와 TensorFlow를 사용하여 '벡터' 라는 개념을 알아봄
 벡터의 전치 : 백터의 열과 행을 바꾸는 것
+<br>
+[학습일지링크](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80%ED%85%90%EC%84%9C%EC%97%90-%EB%8C%80%ED%95%B4-%EB%8D%94%EB%8D%94%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%EB%B2%A1%ED%84%B0)
+
+## 09.30
+
+#### 8. 노름벡터와 단위벡터
+
+벡터의 크기를 표현하는 norm의 종류에 대해 알아보고, 각각 특징과 쓰임을 알아봄
+<br>google colab을 사용하여 간단한 예제 실습
+<br>
+[학습일지링크](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80%ED%85%90%EC%84%9C%EC%97%90-%EB%8C%80%ED%95%B4-%EB%8D%94%EB%8D%94%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%EB%B2%A1%ED%84%B0)

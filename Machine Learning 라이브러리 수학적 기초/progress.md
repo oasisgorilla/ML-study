@@ -96,6 +96,9 @@ PyTorch와 TensorFlow를 사용하여 '벡터' 라는 개념을 알아봄
 
 추가로 [10-1파일](10-1.py)에서 NumPy로 벡터를 만들어 연산하는 것과 파이썬으로 2차원배열을 만들어 연산하는 것의 차이를 알아봄
 
+[학습일지링크1](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B0%B0%EC%97%B4%EA%B3%BC-NumPy%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B01),
+[학습일지링크2](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B0%B0%EC%97%B4%EA%B3%BC-NumPy%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0NumPy%EB%B0%B0%EC%97%B4-%EB%B6%84%EC%84%9D)
+
 #### 11. 일반적인 텐서 표기법
 
 이미지 데이터를 학습하는 경우를 예시로 4차원 텐서 표기법을 알아봄
@@ -107,3 +110,10 @@ PyTorch와 TensorFlow를 사용하여 '벡터' 라는 개념을 알아봄
 #### 13. 부분 소개
 
 지금까지 진행한 부분과 앞으로 진행할 6가지 부분에 대해서 개관을 설명해줌
+
+## 10.03
+
+#### 15. 아마다르 곱을 포함한 기초 텐서 연산
+
+TensorFlow나 PyTorch를 사용하여 기초적인 연산을 구글 코랩에서 실습
+

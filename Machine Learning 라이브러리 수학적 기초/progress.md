@@ -118,3 +118,6 @@ PyTorch와 TensorFlow를 사용하여 '벡터' 라는 개념을 알아봄
 TensorFlow나 PyTorch를 사용하여 기초적인 연산을 구글 코랩에서 실습
 
 지금까지 진행했던 실습 내용 정리
+
+## 10.04 ~ 06
+복습 및 velog 정리

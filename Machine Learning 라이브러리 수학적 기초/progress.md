@@ -128,6 +128,10 @@ TensorFlow나 PyTorch를 사용하여 기초적인 연산을 구글 코랩에서
 
 #### 16. 텐서 리덕션
 
+TensorFlow나 PyTorch를 사용하여 텐서 리덕션을 구글 코랩에서 실습
+
+[학습일지 링크](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80%ED%85%90%EC%84%9C%EC%97%B0%EC%82%B0%EB%A6%AC%EB%8D%95%EC%85%98)
+
 #### 17. 내적
 
 #### 18. 텐서 계산 연습문제

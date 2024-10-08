@@ -1,57 +1,28 @@
 import numpy as np
-import time
+import torch
 
-# 큰 리스트와 NumPy 배열 생성
-list_X = [[i for i in range(1000)] for j in range(1000)]
-np_X = np.array(list_X)
+X = np.array([[25, 2], [5, 26], [3, 7]]) # 3행 2열의 2차원 배열(행렬)
 
-# 파이썬 리스트 인덱싱 시간 측정
-start = time.time()
-for i in range(1000):
-    for j in range(1000):
-        value = list_X[i][j]
-end = time.time()
-print(f"리스트 인덱싱 시간: {end - start}초")
+print(X)
 
-# NumPy 배열 인덱싱 시간 측정
-start = time.time()
-for i in range(1000):
-    for j in range(1000):
-        value = np_X[i, j]
-end = time.time()
-print(f"NumPy 인덱싱 시간: {end - start}초")
+print(X.shape)
 
-"""
-리스트 인덱싱 시간: 0.11900091171264648초
-NumPy 인덱싱 시간: 0.19500255584716797초
+print(X.size) # 전체 원소 개수
 
-1000 * 1000 배열에서의 차이 0.07600164413452149
-2000 * 2000 배열에서의 차이 0.15662693977355956
-3000 * 3000 배열에서의 차이 0.34084367752075195
-"""
+# 첫번째(0번째)열 슬라이싱
+print(X[:, 0])
 
-############################################################################
+# 두번째(1번째)행 슬라이싱
+print(X[1, :])
 
-# import numpy as np
-# import time
+# 0~1번째 행/열만 출력
+print(X[0:2, 0:2])
 
-# # 큰 리스트와 NumPy 배열 생성
-# list_X = [[i for i in range(1000)] for j in range(1000)]
-# np_X = np.array(list_X)
+# PyTorch에서의 행렬
 
-# # 리스트에서 모든 값을 2배로 곱하기
-# start = time.time()
-# list_result = [[x * 2 for x in row] for row in list_X]
-# end = time.time()
-# print(f"리스트 곱셈 시간: {end - start}초")
+X_pt = torch.tensor([[25, 2], [5, 26], [3, 7]])
+print(X_pt)
 
-# # NumPy에서 모든 값을 2배로 곱하기 (벡터화 연산)
-# start = time.time()
-# np_result = np_X * 2
-# end = time.time()
-# print(f"NumPy 곱셈 시간: {end - start}초")
+print(X_pt.shape)
 
-"""
-리스트 곱셈 시간: 0.06800007820129395초
-NumPy 곱셈 시간: 0.0020034313201904297초
-"""
+print(X_pt[1, :])

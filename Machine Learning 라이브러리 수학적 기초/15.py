@@ -22,8 +22,15 @@ A = X + 2
 
 print(A + X)
 
-print(A * X) # 아마다르 곱 연산, 행렬의 각 원소끼리의 곱
+print(A * X) # 아다마르 곱 연산, 행렬의 각 원소끼리의 곱
 
 A_pt = X_pt + 2
 
-print(A_pt * X_pt) # PyTorch에서의 아마다르 곱 연산
+print(A_pt * X_pt) # PyTorch에서의 아다마르 곱 연산
+
+C = np.array([[1, 2, 3]]) # (1, 3)
+D = np.array([[4], [5], [6]]) # (3, 1)
+
+print(f"* 결과 : \n{C * D}") # shape가 다르면 broadcasting 해준다.
+
+print(f"@ 결과 : {C @ D}") # 내적과는 또 다르다

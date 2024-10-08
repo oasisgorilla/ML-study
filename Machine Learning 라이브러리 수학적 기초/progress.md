@@ -94,7 +94,7 @@ PyTorch와 TensorFlow를 사용하여 '벡터' 라는 개념을 알아봄
 행렬텐서에 대해 알아봄<br>
 [학습일지링크](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80%ED%85%90%EC%84%9C%EC%97%90-%EB%8C%80%ED%95%B4-%EB%8D%94%EB%8D%94%EB%8D%94-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%ED%96%89%EB%A0%AC)
 
-추가로 [10-1파일](10-1.py)에서 NumPy로 벡터를 만들어 연산하는 것과 파이썬으로 2차원배열을 만들어 연산하는 것의 차이를 알아봄
+추가로 [10-2파일](10-2.py)에서 NumPy로 벡터를 만들어 연산하는 것과 파이썬으로 2차원배열을 만들어 연산하는 것의 차이를 알아봄
 
 [학습일지링크1](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B0%B0%EC%97%B4%EA%B3%BC-NumPy%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B01),
 [학습일지링크2](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B0%B0%EC%97%B4%EA%B3%BC-NumPy%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0NumPy%EB%B0%B0%EC%97%B4-%EB%B6%84%EC%84%9D)
@@ -113,9 +113,11 @@ PyTorch와 TensorFlow를 사용하여 '벡터' 라는 개념을 알아봄
 
 ## 10.03
 
-#### 15. 아마다르 곱을 포함한 기초 텐서 연산
+#### 15. 아다마르 곱을 포함한 기초 텐서 연산
 
 TensorFlow나 PyTorch를 사용하여 기초적인 연산을 구글 코랩에서 실습
+
+[학습일지 링크](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80%ED%85%90%EC%84%9C%EC%97%B0%EC%82%B0%EC%95%84%EB%8B%A4%EB%A7%88%EB%A5%B4-%EA%B3%B1-%EA%B8%B0%EC%B4%88%EC%97%B0%EC%82%B0)
 
 지금까지 진행했던 실습 내용 정리
 

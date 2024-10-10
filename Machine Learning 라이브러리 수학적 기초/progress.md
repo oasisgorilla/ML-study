@@ -134,6 +134,10 @@ TensorFlow나 PyTorch를 사용하여 텐서 리덕션을 구글 코랩에서 �
 
 #### 17. 내적
 
+TensorFlow나 PyTorch를 사용하여 내적을 구글 코랩에서 실습
+
+[학습일지 링크](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80%ED%85%90%EC%84%9C%EC%97%B0%EC%82%B0%EB%82%B4%EC%A0%81)
+
 #### 18. 텐서 계산 연습문제
 
 #### 19. 대입을 통한 선형계 해법

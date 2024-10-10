@@ -146,3 +146,13 @@ TensorFlow나 PyTorch를 사용하여 내적을 구글 코랩에서 실습
 
 #### 21. 선형계 시각화
 matplot 라이브러리를 사용한 선형계 시각화 예시를 보여줌
+
+## 10.10
+
+#### 22. 부분소개
+
+#### 23. Frobenius의 일반적인 기준
+8강에서 배웠던 L2 norm(유클리드 norm)의 확장 개념을 배워봄
+[관련 학습일지 링크](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80%ED%85%90%EC%84%9C%EC%97%90-%EB%8C%80%ED%95%B4-%EB%8D%94%EB%8D%94%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%EB%B2%A1%ED%84%B0)
+
+[학습일지 링크](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80Frobenius-norm)

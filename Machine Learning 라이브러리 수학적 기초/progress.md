@@ -156,3 +156,9 @@ matplot 라이브러리를 사용한 선형계 시각화 예시를 보여줌
 [관련 학습일지 링크](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80%ED%85%90%EC%84%9C%EC%97%90-%EB%8C%80%ED%95%B4-%EB%8D%94%EB%8D%94%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%EB%B2%A1%ED%84%B0)
 
 [학습일지 링크](https://velog.io/@oasisgorilla/%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80Frobenius-norm)
+
+## 10.11
+
+#### 24. 행렬곱
+행렬곱을 이론적으로 배우고, 코랩에서 코드로 실습,<br>
+행렬곱이 머신러닝에서 실제로 어떻게 쓰이는지를 집 가격 추론 예시를 통해 배워봄

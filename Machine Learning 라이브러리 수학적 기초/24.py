@@ -26,3 +26,8 @@ print(B_pt)
 
 print(torch.matmul(A_pt, B_pt))
 # print(torch.dot(A_pt, B_pt))
+
+"""
+np.dot()은 알아서 텐서의 차원을 구분하여 내적과 행렬곱을 적절히 수행하지만
+torch.dot()은 torch.matmul()과 구분해서 사용해줘야 한다.
+"""

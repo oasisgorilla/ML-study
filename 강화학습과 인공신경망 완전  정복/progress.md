@@ -1,7 +1,9 @@
 # 진행상황
 
 ## 10.10
+
 #### 1. 왜 AI인가?
+
 무어의 법칙으로 컴퓨팅 기술이 비약적으로 좋아지고 있음
 <br>2016에는 AI가 최초로 이세돌 9단을 이긴 사례가 있음
 <br>살짝 강의가 의심스럽긴 하지만 계속 들어보자.
@@ -30,9 +32,16 @@
 #### 8. 벨만 방정식(Bellman Equation)
 
 강화학습에서 사용되는 벨만 방정식에 대해 공부함<br>
-[학습일지](https://velog.io/@oasisgorilla/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EB%B2%A8%EB%A7%8C-%EB%B0%A9%EC%A0%95%EC%8B%9D)
+[학습일지 링크](https://velog.io/@oasisgorilla/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EB%B2%A8%EB%A7%8C-%EB%B0%A9%EC%A0%95%EC%8B%9D)
 
 #### 9. "계획"
 
 앞서 배운 벨만 방정식을 바탕으로 에이전트가 어떻게 행동할지에 대한 "계획"을 세울 수 있음<br>
 "정책"과는 다른 개념이니 이점 잘 숙지해두도록 한다.
+
+#### 10. 마르코프 의사결정 과정(Markov Decision Process, MDP)
+
+에이전트의 의사결정을 모델링할 수 있는 마르코프 의사결정 과정을 학습<br>
+마르코프 의사결정 과정과 마르코프 과정의 차이, 결정론적 방법과 비결정론적 방법 학습
+
+[학습일지 링크](https://velog.io/@oasisgorilla/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EB%A7%88%EB%A5%B4%EC%BD%94%ED%94%84-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95-%EA%B3%BC%EC%A0%95Markov-Decision-Process)

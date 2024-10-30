@@ -233,3 +233,7 @@ Apply the **matrix A** to **matrix B**는 A * B를 의미한다. <br>
 [학습일지 링크](https://velog.io/@oasisgorilla/AI-%EC%88%98%ED%95%99%EC%A0%81-%EA%B8%B0%EC%B4%88%EC%95%84%ED%95%80-%EB%B3%80%ED%99%98affine-transformation)
 
 #### 34. 고유벡터와 고유값
+
+
+## 10.30
+#### 35. 행렬 판별식

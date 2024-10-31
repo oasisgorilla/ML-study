@@ -234,6 +234,9 @@ Apply the **matrix A** to **matrix B**는 A * B를 의미한다. <br>
 
 #### 34. 고유벡터와 고유값
 
+주성분 분석, 행렬 분해 기법 등에 쓰이는 개념인 고유벡터와 고유값의 개념에 대해 학습하고, 관련된 코드를 구글 코랩에서 실습함
+
+[학습일지 링크](https://velog.io/@oasisgorilla/AI-%EC%88%98%ED%95%99%EC%A0%81-%EA%B8%B0%EC%B4%88%EA%B3%A0%EC%9C%A0%EB%B2%A1%ED%84%B0%EC%99%80-%EA%B3%A0%EC%9C%A0%EA%B0%92)
 
 ## 10.30
 #### 35. 행렬 판별식

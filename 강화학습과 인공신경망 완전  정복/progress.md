@@ -70,6 +70,15 @@
 벨만 방정식에서 V와 Q의 차이를 알아보고 수식적으로 풀어봄
 
 #### 14. 시간적 차이(Temporal Difference)
+TD는 δ<sub>t</sub>로도 표현되며, 다음과 같이 정의됨<br>
+δ<sub>t</sub> = R<sub>t+1</sub> + γV(s<sub>t+1</sub> - V(s<sub>t</sub>))<br>
+TD = α(R<sub>t+1</sub> + γ max<sub>a'</sub>Q(s<sub>t+1</sub>,a') - Q(s<sub>t</sub>,a<sub>t</sub>))<br>
+Q-Learning에서 상태 s<sub>t</sub>에서 행동 a<sub>t</sub>를 취했을 때의 Q값을<br>
+Q(s<sub>t</sub>,a<sub>t</sub>)로 표현한다.<br>
+Q(s<sub>t</sub>,a<sub>t</sub>)는 다음과 같이 업데이트 된다.<br>
+Q(s<sub>t</sub>,a<sub>t</sub>) ← Q(s<sub>t</sub>,a<sub>t</sub>) + α(R<sub>t+1</sub> + γ max<sub>a'</sub>Q(s<sub>t+1</sub>,a') - Q(s<sub>t</sub>,a<sub>t</sub>))<br>
+현재 Q값은 <현재 보상 + 예측할 수 있는 가장 큰 미래보상과 현재보상의 차이>인 것이다.<br>
+예측할 수 있는 미래보상은 실제 미래보상과 다른데 둘의 차이가 TD인 것이다.
 
 #### 15. 큐러닝 구현
 
